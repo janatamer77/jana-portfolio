@@ -1,0 +1,102 @@
+/* Global styles */
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #EAF2E8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background-color{
+    background-color: #26352E;
+}
+.bg-w{
+    background-color: #fff;
+}
+.float{
+    float: left;
+}
+.clear-fix{
+    clear: both;
+}
+.section{
+    margin:  0 auto; 
+    width: 90%;
+}
+.m-20{
+    margin: 20px;
+}
+.m-10{
+    margin: 10px;
+}
+.p-20{
+    padding: 20px;
+}
+.br-16{
+    border-radius: 16px;
+}
+.center{
+    text-align: center;
+}
+.font-color{
+    color: #EAF2E8;
+}
+.f-color{
+    color: #23483C;
+}
+/* links */
+ a{
+    display: inline-block;
+    background-color:  rgba(35, 72, 60, 0.5);
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 10px 5px;
+    padding: 5px;
+    color:#A8BFA8 ;
+    border: 2px solid  #A8BFA8;
+}
+/* About me */
+.about-me .about-img img{
+    width: 100;
+    height: 140px;
+    border-radius: 50%;
+}
+.about-card{
+    width: 70%;
+    padding: 10px;
+}
+
+ .about-me a{
+    background-color:  rgb(35, 72, 60);
+    padding: 10px;
+} 
+/* Skills */
+.card{
+    display: inline-block; 
+    width: 25%;
+    padding: 10px 10px; 
+}
+.inner{
+    background-color:  rgba(35, 72, 60, 0.5);
+    border-radius: 16px;
+    padding: 30px;
+     height: 150px;; 
+
+}
+/* Experience */
+.experience-s .exp-card{
+    background-color:  rgba(35, 72, 60, 0.5);
+    border-radius: 16px;
+    padding: 10px;
+     margin: 20px; 
+    border-left: 5px solid #26352E;
+}
+/* contact */
+.contact-me p ,h2{
+    padding: 5px;
+}
+
+
+
