@@ -45,6 +45,9 @@ h1,h2,h3,h4{
 .p-20{
     padding: 20px;
 }
+.pb{
+    padding-bottom: 5px;
+} 
 .br-16{
     border-radius: 16px;
 }
