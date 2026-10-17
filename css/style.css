@@ -15,7 +15,7 @@ body{
     padding: 0;
     height: 100vh;
     background-color: #EAF2E8;
-    font-family: "Noto-sans-medium",sans-serif;
+     font-family: "Noto-sans-medium",sans-serif;
 }
 h1,h2,h3,h4{
     font-family:"oswald-medium", sans-serif;
@@ -41,7 +41,7 @@ h1,h2,h3,h4{
 }
 .m-10{
     margin: 10px;
-}
+} 
 .p-20{
     padding: 20px;
 }
@@ -67,7 +67,7 @@ h1,h2,h3,h4{
     padding: 5px;
     color:#A8BFA8 ;
     border: 2px solid  #A8BFA8;
-    font-family: "Noto-sans-medium",sans-serif;
+     font-family: "Noto-sans-medium",sans-serif;
 }
 /* About me */
 .about-me .about-img img{
@@ -86,7 +86,7 @@ h1,h2,h3,h4{
 } 
 /* Skills */
 .card{
-    display: inline-block; 
+    display: inline-block;  
     width: 25%;
     padding: 10px; 
 }
@@ -101,13 +101,11 @@ h1,h2,h3,h4{
     background-color:  rgba(35, 72, 60, 0.5);
     border-radius: 16px;
     padding: 10px;
-     margin: 20px; 
+    margin: 20px; 
     border-left: 5px solid #26352E;
 }
 /* contact */
 .contact-me p ,h2{
     padding: 5px;
 }
-
-
 
